@@ -15,7 +15,7 @@
 Добавить карточку о себе в секцию **Команда**, когда ты станешь Member.
 
 ## Есть вопросы
-Пиши Саше Кейеру:
+Пиши Саше:
 1. Рабочая почта: sandushnilas@gmail.com
 2. Рабочий телеграм: https://t.me/sanyuchilas
 3. GitHub: https://github.com/sanyuchilas
